@@ -1,5 +1,5 @@
-## Project 1: Git & Github
-### Summer McClintic
+# Project 1: Git & Github
+## Summer McClintic
 
 Navigating merge conflicts is an important skill to have when using git. In this project, I created an empty repository and cloned it to my local machine. I then copied over my Project0.cpp file from the first project, and added, committed, and pushed it. I then created a new branch called branch0 and switched to that branch by using the command `git checkout -b branch0`.
 
@@ -14,6 +14,9 @@ In order to fix this merge conflict, I opened up the Project0.cpp file in Atom. 
 The last thing I did was switched back to branch0 and ran `git pull origin master` to get the updated Project0.cpp file. This made sure both of my branches had the latest version of Project0.cpp that I wanted.
 
 Here are the resources I used for git:
+
 [Basic git commands](https://docs.github.com/en/get-started/using-git/about-git)
+
 [Branches in git](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+
 [Solving git merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
